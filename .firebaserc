@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "voost-ff725",
+    "staging": "voost-6ab1c"
+  }
+}
